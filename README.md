@@ -3,7 +3,7 @@ This is a sample website project for training GIT
 
 ## Introduction
 
-Adding intro
+Adding intros
  
 ## Purpose
 
