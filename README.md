@@ -11,7 +11,7 @@ this is the purpose
 
 ## Deployment
 
-yes deploy
+yes deployment
 
 ## How To Contribute
 
