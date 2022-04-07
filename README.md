@@ -1,5 +1,5 @@
 # Starter Web Projcet
-This is a sample website project for training GIT
+This is a sample website project for training GIT..
 
 ## Introduction
 
@@ -11,7 +11,7 @@ this is the purpose and yes
 
 ## Deployment
 
-yes deployment
+yes deploymentss
 
 ## How To Contribute
 
