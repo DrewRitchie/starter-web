@@ -15,4 +15,4 @@ yes deploymentss
 
 ## How To Contribute
 
-contribute yes
+contribute you can do thiS!
