@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Drew Drew@com twitter
 
 # THANKS
 
