@@ -16,3 +16,7 @@ yes deploymentss
 ## How To Contribute
 
 contribute you can do thiS!
+
+## Copyright
+
+what happe to my my copyyyright
